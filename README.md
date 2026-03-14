@@ -42,15 +42,15 @@ For more information, visit the [Shadcn Vue Documentation](https://www.shadcn-vu
 
 ## Scripts
 
-| Command              | Description                    |
-| -------------------- | ------------------------------ |
-| `bun run dev`        | Start development server       |
-| `bun run build`      | Build for production           |
-| `bun run preview`    | Preview production build       |
-| `bun run lint`       | Run linter                     |
-| `bun run lint:fix`   | Run linter with auto-fix       |
-| `bun run format`     | Check formatting               |
-| `bun run format:fix` | Fix formatting                 |
+| Command              | Description              |
+| -------------------- | ------------------------ |
+| `bun run dev`        | Start development server |
+| `bun run build`      | Build for production     |
+| `bun run preview`    | Preview production build |
+| `bun run lint`       | Run linter               |
+| `bun run lint:fix`   | Run linter with auto-fix |
+| `bun run format`     | Check formatting         |
+| `bun run format:fix` | Fix formatting           |
 
 ---
 
